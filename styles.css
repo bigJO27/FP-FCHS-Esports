@@ -85,7 +85,3 @@ body{
     grid-auto-rows: max-content;
     justify-content: space-evenly;
   }
-
-  .text{
-    width: 600px;
-  }
