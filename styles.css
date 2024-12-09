@@ -85,3 +85,7 @@ body{
     grid-auto-rows: max-content;
     justify-content: space-evenly;
   }
+
+  h2{
+    margin: auto;
+  }
