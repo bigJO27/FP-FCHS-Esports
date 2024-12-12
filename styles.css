@@ -96,3 +96,11 @@ body{
   .text{
     margin-bottom: auto;
   }
+
+  .w{
+    text-align: center;
+  }
+
+  .esports{
+    background-image: url(file:///C:/Users/wildc/Downloads/ESports%20banner-02.png);
+  }
