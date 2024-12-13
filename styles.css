@@ -110,6 +110,7 @@ body{
   .himg{
     width: auto;
     height: 2000;
-    margin: auto;
-
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
   }
