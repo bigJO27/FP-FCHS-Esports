@@ -114,3 +114,31 @@ body{
     margin-right: auto;
     margin-top: auto;
   }
+
+  .websites{
+
+  }
+
+  .websites> a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .websites> a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .websites> a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  .websites> a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
