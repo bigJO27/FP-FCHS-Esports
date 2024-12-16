@@ -105,6 +105,7 @@ body{
   .images{
     width: auto;
     height: 300px;
+    margin: auto;
   }
 
   .himg{
