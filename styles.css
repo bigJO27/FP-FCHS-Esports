@@ -116,29 +116,30 @@ body{
   }
 
   .websites{
-    
+    display:flex;
+    justify-content: center;
   }
 
   .websites> a:link {
-    color: green;
+    color: rgb(25, 0, 250);
     background-color: transparent;
     text-decoration: none;
   }
   
   .websites> a:visited {
-    color: pink;
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: none;
   }
   
   .websites> a:hover {
-    color: red;
+    color: rgb(0, 0, 0);
     background-color: transparent;
     text-decoration: underline;
   }
   
   .websites> a:active {
-    color: yellow;
+    color: rgb(61, 61, 73);
     background-color: transparent;
     text-decoration: underline;
   }
