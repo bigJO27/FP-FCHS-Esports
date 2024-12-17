@@ -122,24 +122,20 @@ body{
 
   .websites> a:link {
     color: rgb(25, 0, 250);
-    background-color: transparent;
     text-decoration: none;
   }
   
   .websites> a:visited {
     color: rgb(255, 255, 255);
-    background-color: transparent;
     text-decoration: none;
   }
   
   .websites> a:hover {
     color: rgb(0, 0, 0);
-    background-color: transparent;
     text-decoration: underline;
   }
   
   .websites> a:active {
     color: rgb(61, 61, 73);
-    background-color: transparent;
     text-decoration: underline;
   }
