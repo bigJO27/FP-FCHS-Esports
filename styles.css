@@ -111,8 +111,8 @@ body{
   .himg{
     width: auto;
     height: 2000;
-    margin-right: auto;
-    margin-top: auto;
+    display: flex;
+    justify-content: center;
   }
 
   .websites{
