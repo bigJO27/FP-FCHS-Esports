@@ -105,7 +105,10 @@ body{
   .images{
     width: auto;
     height: 300px;
-    margin: auto;
+    display: flexbox;
+    justify-content: space-evenly;
+    flex: auto;
+    align-items: center;
   }
 
   .himg{
