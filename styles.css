@@ -109,6 +109,7 @@ body{
     justify-content: space-evenly;
     flex: auto;
     align-items: center;
+    margin: auto;
   }
 
   .himg{
