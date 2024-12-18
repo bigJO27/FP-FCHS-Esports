@@ -105,7 +105,7 @@ body{
   .images{
     width: auto;
     height: 300px;
-    display: flexbox;
+    display: flex;
     justify-content: space-evenly;
     flex: auto;
     align-items: center;
@@ -116,7 +116,7 @@ body{
     height: 2000;
     display: flex;
     justify-content: center;
-    text-align: center;
+    align-items: center;
   }
 
   .websites{
