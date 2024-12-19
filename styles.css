@@ -28,7 +28,7 @@ body{
     color: black;
   }
 
-  h1, h2, h4, p, ul, th, td{
+  h1, h2, h4, p, ul, th, td, h3{
     font-size: 20px;
     background-color: #00005f;
   }
