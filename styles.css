@@ -146,12 +146,18 @@ body{
     text-decoration: underline;
   }
 
+  .webesport{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .big{
-    height: 700px;
+    height: 300px;
     width: auto;
   }
 
   .little{
-    height: 600px;
+    height: 300px;
     width: auto;
   }
