@@ -69,7 +69,7 @@ body{
   }
 
   header, h1, h2, h4, p, ul{
-    margin: auto;
+    margin-right: auto;
   }
 
   .h{
