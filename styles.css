@@ -147,6 +147,10 @@ body{
   }
 
   .webesport{
-    width: auto;
-    hieght: 300px;
+    
+  }
+
+  .big{
+    height: 200px;
+    width: 150px
   }
