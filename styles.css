@@ -155,10 +155,11 @@ body{
   .big{
     height: 600px;
     width: auto;
-    margin-top: 200px;
+    margin-top: 100px;
   }
 
   .little{
     height: 600px;
     width: auto;
+    margin-top: 100px;
   }
