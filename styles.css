@@ -150,12 +150,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 200px;
   }
 
   .big{
     height: 600px;
     width: auto;
+    margin-top: 200px;
   }
 
   .little{
